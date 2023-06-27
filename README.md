@@ -1,7 +1,7 @@
 # ChildrensBook
 
 ## Overview
-My teams project during NWHacks 2020 in Vancouver Canada!
+My team's project during NWHacks 2020 in Vancouver Canada!
 
 We had 48 hours to create a project that would improve a critical field for our society, and our group chose education.
 
